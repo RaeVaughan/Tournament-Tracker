@@ -1,0 +1,6 @@
+C:\Users\VaughR01\Desktop\Tournament-Tracker\TournamentTracker\TrackerLibrary\bin\Debug\TrackerLibrary.dll
+C:\Users\VaughR01\Desktop\Tournament-Tracker\TournamentTracker\TrackerLibrary\bin\Debug\TrackerLibrary.pdb
+C:\Users\VaughR01\Desktop\Tournament-Tracker\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.csprojAssemblyReference.cache
+C:\Users\VaughR01\Desktop\Tournament-Tracker\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\VaughR01\Desktop\Tournament-Tracker\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.dll
+C:\Users\VaughR01\Desktop\Tournament-Tracker\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.pdb
