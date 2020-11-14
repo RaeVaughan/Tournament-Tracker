@@ -15,3 +15,5 @@ C:\Users\VaughR01\Desktop\Tournament-Tracker\TournamentTracker\TrackerUI\obj\Deb
 C:\Users\VaughR01\Desktop\Tournament-Tracker\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreateTournamentForm.resources
 C:\Users\VaughR01\Desktop\Tournament-Tracker\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.TournamentDashboardForm.resources
 C:\Users\VaughR01\Desktop\Tournament-Tracker\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.CopyComplete
+C:\Users\VaughR01\Desktop\Tournament-Tracker\TournamentTracker\TrackerUI\bin\Debug\Dapper.dll
+C:\Users\VaughR01\Desktop\Tournament-Tracker\TournamentTracker\TrackerUI\bin\Debug\Dapper.xml
